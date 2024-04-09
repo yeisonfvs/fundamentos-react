@@ -1,0 +1,15 @@
+.text-center {
+  text-align: center;
+}
+
+.text-primary {
+  color: #056738;
+}
+
+.text-info {
+  color: #b39512;
+}
+
+.listFruts {
+  display: inline-grid;
+}
